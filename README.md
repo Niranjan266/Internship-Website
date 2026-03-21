@@ -1,4 +1,3 @@
-**Here’s a complete, polished `README.md` for your Internship Website repository. It highlights the purpose, stack, and usage clearly, making it professional and portfolio-ready.**
 
 ---
 
