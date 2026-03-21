@@ -91,9 +91,14 @@ Open your browser and navigate to **`http://127.0.0.1:5000/` [(127.0.0.1 in Bing
 ---
 
 ## 📸 Screenshots
-- **Login Page** – Secure student authentication  
-- **Dashboard** – Overview of internships and applications  
+- **Login Page** – Secure student authentication
+-  <img width="1919" height="1079" alt="Screenshot 2026-03-21 174341" src="https://github.com/user-attachments/assets/a99680e9-e6c8-4434-8a4e-212ac2c67a3f" />
+
+- **Dashboard** – Overview of internships and applications
+- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fba479fc-303a-4625-b847-9315e12e8084" />
+ 
 - **Internship Listings** – Browse and apply easily  
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c24a1723-c304-46d7-9e9f-58f3a4579093" />
 
 ---
 
